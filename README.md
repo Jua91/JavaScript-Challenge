@@ -15,6 +15,8 @@ This page allows users to filter table data for specific dates.
 
 The page can be accessed [here](https://jua91.github.io/JavaScript-Challenge/UFO-level-1/index.html).
 
+![Level-1](image/UFO-Finder-level-1.png)
+
 ### Level 2: Multiple Search Categories (Optional)
 
 * In this page, the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
@@ -27,3 +29,4 @@ The page can be accessed [here](https://jua91.github.io/JavaScript-Challenge/UFO
 
 The page can be accessed [here](https://jua91.github.io/JavaScript-Challenge/UFO-level-2/index.html)
 
+![Level-2](image/UFO-Finder-level-2.png)
